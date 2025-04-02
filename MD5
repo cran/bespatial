@@ -1,4 +1,4 @@
-6ef9835a12ecbb4ada96678dc98f6e7b *DESCRIPTION
+12d5d606658236796045b668a08d460d *DESCRIPTION
 3d1dc94a658c1123ba3f211221efb0e0 *LICENSE
 bffa8c8782528922eeb048357ba9b83c *NAMESPACE
 90aded26deb73a5d6b3e567839cb3292 *R/RcppExports.R
@@ -8,13 +8,13 @@ f1aa94fdcb4b00c0ceb80163891a5f18 *R/bes_g_gao.R
 09250851648603ba8713b34980989698 *R/bes_m_zhao.R
 ca7cc1c8c3a518e9bcf9d685aad96bc0 *R/bes_p_cushman.R
 21178ced78f6ad59bc7171267ae1f952 *R/bespatial-package.R
-c5efdff7d27d6381f61a90e7cadaa898 *R/get_distance.R
+8ec555cf5fc6f839389416a3ab81ba30 *R/get_distance.R
 298430e10f87df1115bbf79faed8be09 *R/get_slope.R
 4ac73101ff48f89f707722c196b43a87 *R/get_total_edge.R
 b0e4c2f3d1972457a0a71351d16ec238 *R/permute_raster.R
 73a40e5594295f08e9c7148d92048788 *R/to_terra.R
-19e10e3a4ed73f33856ba0dd3ea5634c *README.md
-d667b42fa82a7a8a3677d661398a655a *build/partial.rdb
+f114c7ae9c538ad4b871b8c5c3add604 *README.md
+d08814007735329ff19ffd7fed6c7dbb *build/partial.rdb
 b947e88dcba7d2c819a0adeddbc28977 *inst/landscapes/landscape_01.tif
 e2bd9fac20a11e3d4db621f1c6f5f511 *inst/landscapes/landscape_02.tif
 8d42b9934a7bb9805f6c840958cd2215 *inst/landscapes/landscape_03.tif
@@ -59,7 +59,7 @@ f145ecdd539a46ba86767c8780dbd29d *inst/landscapes/landscape_34.tif
 48e0ebc56ea3e5fce1d0558bb36b228f *man/bes_m_zhao.Rd
 d09610bfa84ce1df0643bb6f5dd563be *man/bes_p_cushman.Rd
 505602d495e6b7c44024bbf1f113721c *man/bespatial-package.Rd
-45df4455c6c546c28b915844deceff21 *man/figures/README-unnamed-chunk-3-1.png
+f3d3bdaeb76e6ab5ca2488360aaac502 *man/figures/README-unnamed-chunk-3-1.png
 4500fab2f9b5d450ae68ff68789a3b2b *man/get_distance.Rd
 1f0ccf2fd51c856e6ce25e33e4aa52c4 *man/get_slope.Rd
 301117e3be73e6c90a71cbcf17aec150 *man/get_total_edge.Rd
